@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 314 314">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #362222;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #c06f6f;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="3.5" y="3.5" width="307" height="307" rx="153.5" ry="153.5"/>
+  <g>
+    <g>
+      <rect class="cls-2" x="84.92" y="180.42" width="23.57" height="65.73"/>
+      <rect class="cls-2" x="125.12" y="137.31" width="23.57" height="108.83"/>
+      <rect class="cls-2" x="165.32" y="162.41" width="23.57" height="83.74"/>
+      <rect class="cls-2" x="205.52" y="120.7" width="23.57" height="125.45"/>
+    </g>
+    <line class="cls-2" x1="182.05" y1="127.03" x2="212.35" y2="83.61"/>
+    <line class="cls-2" x1="144.24" y1="113.52" x2="169.76" y2="129.53"/>
+    <line class="cls-2" x1="103.07" y1="140.1" x2="130.53" y2="114.79"/>
+    <circle class="cls-2" cx="217.3" cy="76.51" r="8.66"/>
+    <circle class="cls-2" cx="177.1" cy="134.13" r="8.66" transform="translate(-42.97 164.51) rotate(-45)"/>
+    <circle class="cls-2" cx="136.9" cy="108.92" r="8.66"/>
+    <circle class="cls-2" cx="96.7" cy="145.97" r="8.66" transform="translate(-74.9 111.13) rotate(-45)"/>
+  </g>
+</svg>
