@@ -20223,9 +20223,9 @@
 
 },
 {
-"id":"Cardio part 3 _ repaired 3-11",
+"id":"Cardio part 3 _ repaired 3-11-25",
 "class":"project",
-"title":"Cardio part 3 _ repaired 3-11",
+"title":"Cardio part 3 _ repaired 3-11-25",
 "children":["Slide81064","Slide81633","Slide82071","Slide83596","Slide82343","Slide83327","Slide83934","Slide85224","Slide88571","Slide86279","Slide86554","Slide87157","Slide87429","Slide87765","Slide88296","Slide88570","Slide89666","Slide90025","Slide90376","Slide90799","Slide91086","Slide92067","Slide92940","Slide93227","Slide93553","Slide93993","Slide93994"],
 "roles":{
 "quiz":{
@@ -20269,35 +20269,6 @@
 "SCCriteria":"launch_content",
 "exitNormalIfCompleted":false
 }
-,"eventVideos":[{
-"id":"si83340",
-"uri":"https://youtu.be/_vma7myqIyo?si=cnT6onXx0l6BORaK"
-}
-,{
-"id":"si82087",
-"uri":"https://youtu.be/7-mGlISgRRE"
-}
-,{
-"id":"si89196",
-"uri":"https://youtu.be/IEpZWHvbV2Q"
-}
-,{
-"id":"si87173",
-"uri":"https://youtu.be/i9WUHSJrhm4?si=hsgAUXtwR7siYRRZ"
-}
-,{
-"id":"si88314",
-"uri":"https://youtu.be/dKOgGMBKTEk"
-}
-,{
-"id":"si90830",
-"uri":"https://youtu.be/hxTxROuUj4g?si=PlO74sdhnbSfkeSJ"
-}
-,{
-"id":"si92971",
-"uri":"https://youtu.be/3i7nywhI77w?si=gutTSST09sdfoZQv"
-}
-]
 ,"toc":[{
 "id":"Slide81064",
 "title":"Welcome - 1"
